@@ -13,3 +13,8 @@ Warm colors:
 red
 orange
 yellow
+cool colors:
+blue
+green
+indigo
+teal
