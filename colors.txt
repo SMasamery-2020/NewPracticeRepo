@@ -7,3 +7,7 @@ white
 Yellow
 Brown
 black
+Warm colors:
+red
+orange
+yellow
