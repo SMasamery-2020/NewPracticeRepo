@@ -3,6 +3,8 @@ Blue
 Green 
 orange
 red
+brown
+beige
 white
 Yellow
 Brown
